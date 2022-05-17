@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 My blog (usually in Chinese): [Huiser's blog](https://blog.huiserwang.site)
 
-- 📄 Know more about me: [Detailed CV](https://huiserwang.site)
+- 📄 Know more about me: [My Homepage](https://huiserwang.site)
 
 <!--
 ### 👣 Stats
