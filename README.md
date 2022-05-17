@@ -22,9 +22,10 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me: **huiser@huiserwang.site**
 
+- 📄 Know more about me: [My Homepage](https://huiserwang.site)
+
 - 👯 My blog (usually in Chinese): [Huiser's blog](https://blog.huiserwang.site)
 
-- 📄 Know more about me: [My Homepage](https://huiserwang.site)
 
 <!--
 ### 👣 Stats
